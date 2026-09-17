@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/dibyajyotipatra07/blog-preview-card-main)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: https://github.com/dibyajyotipatra07/blog-preview-card-main
+- Live Site URL: https://dibyajyotipatra07.github.io/blog-preview-card-main/
 
 ## My process
 
@@ -55,8 +55,8 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Dibyajyoti Patra](https://www.your-site.com)
-- Frontend Mentor - [@dibyajyotipatra07](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Dibyajyoti Patra](https://dibyajyotipatra07.github.io/blog-preview-card-main/)
+- Frontend Mentor - [@dibyajyotipatra07](https://www.frontendmentor.io/profile/dibyajyotipatra07)
 
 
 ## Acknowledgments
