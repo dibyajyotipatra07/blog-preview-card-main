@@ -1,0 +1,65 @@
+*{
+    font-family: "Figtree", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+body {
+    background-color: hsl(47, 88%, 63%);
+}
+
+.card{
+    background-color: hsl(0, 0%, 100%);
+    width: 336px;
+    margin: 10% auto;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid hsl(0, 0%, 7%);
+    box-shadow: 8px 8px 0px 0px hsl(0, 0%, 7%);
+}
+
+.card img{
+    border-radius: 15px;
+}
+
+.container{
+    padding: 25px 0px;
+    padding-bottom: 0px;
+}
+.head{
+    text-align:center;
+    background-color: hsl(47, 88%, 63%);
+    padding: 5px 10px;
+    font-weight: 800;
+    margin: 10px 0px;
+    border-radius: 3px;
+}
+
+.content p{
+    color: hsl(0, 0%, 7%);
+    margin-bottom: 10px;
+}
+
+.content p:last-child{
+    color: hsl(0, 0%, 42%);
+    line-height: 1.5;
+}
+.content h2{
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: 800;
+}
+
+.author{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.author h5{
+    font-size: 14px;
+    font-weight: 800;
+}
+.author img{
+    width: 35px;
+}
